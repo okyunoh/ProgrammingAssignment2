@@ -7,7 +7,7 @@
 ## 1. set the value of matrix, 
 ## 2. get the value of matrix, 
 ## 3. set the value of the inversion of matrix, 
-## 4. set the value of the inversion of matrix.
+## 4. get the value of the inversion of matrix.
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
